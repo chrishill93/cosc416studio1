@@ -575,7 +575,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cd64f37beb7ea6408833eebc488f773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spherRigidBody: {fileID: 1294970474}
+  sphereRigidBody: {fileID: 1294970474}
+  ballSpeed: 2
 --- !u!1 &1309814495
 GameObject:
   m_ObjectHideFlags: 0
